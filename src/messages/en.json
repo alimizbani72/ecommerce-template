@@ -28,6 +28,10 @@
       "title": "Featured Products",
       "description": "Explore our top categories",
       "viewAll": "View all"
+    },
+    "categories": {
+      "title": "Shop by Category",
+      "viewAll": "View all"
     }
   }
 }

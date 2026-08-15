@@ -1,5 +1,6 @@
 import { Locale } from "@/i18n/config";
 import { BenefitSection } from "./_sections/benefits";
+import { ShopByCategorySection } from "./_sections/categories";
 import { FeaturedProductsSection } from "./_sections/featured-products";
 import { HeroSection } from "./_sections/hero";
 
@@ -21,6 +22,7 @@ export default async function HomePage({ params }: HomePageProps) {
       />
 
       <BenefitSection locale={locale} />
+      <ShopByCategorySection locale={locale} />
       <FeaturedProductsSection locale={locale} />
     </main>
   );

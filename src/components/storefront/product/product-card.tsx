@@ -2,6 +2,8 @@ import Image from "next/image";
 import Link from "next/link";
 
 import { Badge } from "@/components/ui/badge";
+import { Card } from "@/components/ui/card";
+import { Typography } from "@/components/ui/typography";
 import type { Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/get-dictionary";
 import type { Product } from "@/types/product";
@@ -26,7 +28,10 @@ export async function ProductCard({ product, locale }: ProductCardProps) {
       : 0;
 
   return (
-    <article className="group min-w-0 overflow-hidden rounded-lg border border-border bg-surface transition-shadow duration-200 hover:shadow-md">
+    <Card
+      as="article"
+      className="group min-w-0 overflow-hidden transition-shadow duration-200 hover:shadow-md"
+    >
       <div className="relative">
         <Link
           href={productHref}
@@ -56,7 +61,9 @@ export async function ProductCard({ product, locale }: ProductCardProps) {
         href={productHref}
         className="block px-3 py-4 md:py-7  focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-inset"
       >
-        <p className="text-sm font-medium text-text-primary">{product.name}</p>
+        <Typography variant="label" className="text-text-primary">
+          {product.name}
+        </Typography>
 
         <div className="mt-1 flex items-center gap-2">
           <span className="text-sm font-semibold text-text-primary">
@@ -70,6 +77,6 @@ export async function ProductCard({ product, locale }: ProductCardProps) {
           )}
         </div>
       </Link>
-    </article>
+    </Card>
   );
 }

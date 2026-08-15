@@ -30,7 +30,9 @@ export function SectionHeader({
       ].join(" ")}
     >
       <div className="max-w-2xl">
-        <Typography variant="h2">{title}</Typography>
+        <Typography variant="h3" className="lg:text-4xl">
+          {title}
+        </Typography>
 
         {description ? (
           <Typography variant="body" className="mt-2 text-text-secondary">

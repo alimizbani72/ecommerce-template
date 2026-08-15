@@ -31,7 +31,7 @@ export function Card<T extends ElementType = "div">({
   as,
   children,
   variant = "default",
-  padding = "md",
+  padding = "none",
   className = "",
   ...props
 }: CardProps<T>) {

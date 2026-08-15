@@ -28,6 +28,10 @@
       "title": "Featured Products",
       "description": "Explore some of our most popular products.",
       "viewAll": "View all"
+    },
+    "categories": {
+      "title": "Kategoriye Göre Alışveriş",
+      "viewAll": "Tümünü Gör"
     }
   }
 }
