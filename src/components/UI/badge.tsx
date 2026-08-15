@@ -22,7 +22,7 @@ const variantClasses: Record<BadgeVariant, string> = {
 
   warning: "bg-warning-subtle text-warning",
 
-  danger: "bg-danger-subtle text-danger",
+  danger: "bg-danger text-text-inverse",
 
   info: "bg-info-subtle text-info",
 };

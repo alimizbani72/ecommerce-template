@@ -1,6 +1,6 @@
 import type { ReactNode } from "react";
 
-import { Typography } from "@/components/UI/typography";
+import { Typography } from "@/components/ui/typography";
 
 type SectionHeaderProps = {
   title: ReactNode;

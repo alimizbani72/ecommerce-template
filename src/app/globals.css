@@ -2,6 +2,9 @@
 @import "../styles/tokens.css";
 
 @theme inline {
+  --spacing-header-mobile: var(--header-height-mobile);
+  --spacing-header-desktop: var(--header-height-desktop);
+
   --color-input-background: var(--input-background);
   --color-input-border: var(--input-border);
   --color-input-border-hover: var(--input-border-hover);

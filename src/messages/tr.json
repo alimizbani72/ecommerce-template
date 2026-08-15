@@ -1,0 +1,33 @@
+{
+  "header": {
+    "announcement": "$99 üzerindeki siparişlerde ücretsiz kargo",
+    "searchPlaceholder": "Ürün ara..."
+  },
+  "navigation": {
+    "search": "Ara",
+    "account": "Hesap",
+    "wishlist": "Favoriler",
+    "cart": "Alışveriş sepeti"
+  },
+  "product": {
+    "addToWishlist": "Favorilere ekle",
+    "removeFromWishlist": "Favorilerden çıkar"
+  },
+  "home": {
+    "benefits": {
+      "shippingTitle": "Ücretsiz kargo",
+      "shippingDescription": "$100 üzeri siparişlerde",
+      "returnsTitle": "30 gün iade",
+      "returnsDescription": "Kolay ve zahmetsiz iade",
+      "paymentTitle": "Güvenli ödeme",
+      "paymentDescription": "%100 güvenli ödeme",
+      "supportTitle": "7/24 destek",
+      "supportDescription": "Her zaman yanınızdayız"
+    },
+    "featuredProducts": {
+      "title": "Featured Products",
+      "description": "Explore some of our most popular products.",
+      "viewAll": "View all"
+    }
+  }
+}

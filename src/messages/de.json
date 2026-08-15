@@ -1,0 +1,33 @@
+{
+  "header": {
+    "announcement": "Kostenloser Versand bei Bestellungen über $99",
+    "searchPlaceholder": "Produkte suchen..."
+  },
+  "navigation": {
+    "search": "Suchen",
+    "account": "Konto",
+    "wishlist": "Wunschliste",
+    "cart": "Warenkorb"
+  },
+  "product": {
+    "addToWishlist": "Zur Wunschliste hinzufügen",
+    "removeFromWishlist": "Von der Wunschliste entfernen"
+  },
+  "home": {
+    "benefits": {
+      "shippingTitle": "Kostenloser Versand",
+      "shippingDescription": "Ab $100 Bestellwert",
+      "returnsTitle": "30 Tage Rückgabe",
+      "returnsDescription": "Einfach und unkompliziert",
+      "paymentTitle": "Sichere Zahlung",
+      "paymentDescription": "100% sichere Zahlung",
+      "supportTitle": "24/7 Support",
+      "supportDescription": "Wir sind für dich da"
+    },
+    "featuredProducts": {
+      "title": "Featured Products",
+      "description": "Explore some of our most popular products.",
+      "viewAll": "View all"
+    }
+  }
+}

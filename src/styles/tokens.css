@@ -1,14 +1,5 @@
 :root {
   /* ---------------------------------
-       Brand
-    --------------------------------- */
-
-  --brand-primary: #2563eb;
-  --brand-primary-hover: #1d4ed8;
-  --brand-primary-active: #1e40af;
-  --brand-primary-subtle: #eff6ff;
-
-  /* ---------------------------------
        Neutral
     --------------------------------- */
 
@@ -25,6 +16,14 @@
   --neutral-900: #111827;
   --neutral-950: #0b0f19;
 
+  /* ---------------------------------
+       Brand
+    --------------------------------- */
+
+  --brand-primary: var(--neutral-900);
+  --brand-primary-hover: var(--neutral-800);
+  --brand-primary-active: var(--neutral-950);
+  --brand-primary-subtle: var(--neutral-100);
   /* ---------------------------------
        Semantic
     --------------------------------- */
@@ -104,6 +103,8 @@
   --container-xl: 80rem;
   --container-2xl: 96rem;
 
+  --header-height-mobile: 3.75rem;
+  --header-height-desktop: 4rem;
   /* ---------------------------------
    Typography
 --------------------------------- */

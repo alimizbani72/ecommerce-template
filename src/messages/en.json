@@ -1,0 +1,33 @@
+{
+  "header": {
+    "announcement": "Free shipping on orders over $99",
+    "searchPlaceholder": "Search for products..."
+  },
+  "navigation": {
+    "search": "Search",
+    "account": "Account",
+    "wishlist": "Wishlist",
+    "cart": "Shopping cart"
+  },
+  "product": {
+    "addToWishlist": "Add to wishlist",
+    "removeFromWishlist": "Remove from wishlist"
+  },
+  "home": {
+    "benefits": {
+      "shippingTitle": "Free shipping",
+      "shippingDescription": "On orders over $100",
+      "returnsTitle": "30-day returns",
+      "returnsDescription": "No hassle, easy returns",
+      "paymentTitle": "Secure payment",
+      "paymentDescription": "100% secure checkout",
+      "supportTitle": "24/7 support",
+      "supportDescription": "We're here to help"
+    },
+    "featuredProducts": {
+      "title": "Featured Products",
+      "description": "Explore our top categories",
+      "viewAll": "View all"
+    }
+  }
+}
