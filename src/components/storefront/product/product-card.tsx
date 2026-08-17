@@ -30,7 +30,7 @@ export async function ProductCard({ product, locale }: ProductCardProps) {
   return (
     <Card
       as="article"
-      className="group min-w-0 overflow-hidden transition-shadow duration-200 hover:shadow-md"
+      className="group w-65 shrink-0 overflow-hidden transition-shadow duration-200 hover:shadow-md"
     >
       <div className="relative">
         <Link

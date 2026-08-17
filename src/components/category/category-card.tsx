@@ -15,7 +15,7 @@ export function CategoryCard({ category, locale }: CategoryCardProps) {
   const categoryHref = `/${locale}/categories/${category.slug}`;
 
   return (
-    <article className="group w-[72vw] shrink-0 lg:w-auto">
+    <article className="group w-50 shrink-0 lg:w-auto">
       <Card className="overflow-hidden transition-shadow duration-200 hover:shadow-md">
         <Link
           href={categoryHref}
@@ -26,7 +26,7 @@ export function CategoryCard({ category, locale }: CategoryCardProps) {
               src={category.image}
               alt={category.name}
               fill
-              sizes="(min-width: 1024px) 20vw, 70vw"
+              sizes="(min-width: 1024px) 20vw, 200px"
               className="object-cover transition-transform duration-300 group-hover:scale-[1.02]"
             />
           </div>

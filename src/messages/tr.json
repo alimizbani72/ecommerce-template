@@ -3,6 +3,23 @@
     "announcement": "$99 üzerindeki siparişlerde ücretsiz kargo",
     "searchPlaceholder": "Ürün ara..."
   },
+  "footer": {
+    "description": "Özenle seçilmiş ürünlerle modern bir alışveriş deneyimi.",
+    "shop": {
+      "title": "Alışveriş",
+      "products": "Ürünler",
+      "categories": "Kategoriler",
+      "newArrivals": "Yeni Gelenler"
+    },
+    "company": {
+      "title": "Kurumsal",
+      "about": "Hakkımızda",
+      "contact": "İletişim",
+      "privacy": "Gizlilik Politikası",
+      "terms": "Kullanım Koşulları"
+    },
+    "copyright": "© 2026 Store. Tüm hakları saklıdır."
+  },
   "navigation": {
     "search": "Ara",
     "account": "Hesap",
@@ -14,6 +31,10 @@
     "removeFromWishlist": "Favorilerden çıkar"
   },
   "home": {
+    "newArrivals": {
+      "title": "Yeni Gelenler",
+      "viewAll": "Tümünü Gör"
+    },
     "benefits": {
       "shippingTitle": "Ücretsiz kargo",
       "shippingDescription": "$100 üzeri siparişlerde",
@@ -32,6 +53,27 @@
     "categories": {
       "title": "Kategoriye Göre Alışveriş",
       "viewAll": "Tümünü Gör"
+    },
+    "whyShopWithUs": {
+      "title": "Neden Bizi Tercih Etmelisiniz?",
+      "items": [
+        {
+          "title": "Kaliteli Ürünler",
+          "description": "İhtiyaçlarınız için özenle seçilmiş ürünler."
+        },
+        {
+          "title": "Uygun Fiyatlar",
+          "description": "Kaliteden ödün vermeden en iyi fiyatlar."
+        },
+        {
+          "title": "Binlerce Müşteri Tarafından Güveniliyor",
+          "description": "Müşterilerimizin güvenebileceği bir alışveriş deneyimi."
+        },
+        {
+          "title": "Kolay İade",
+          "description": "Basit ve hızlı bir iade süreci."
+        }
+      ]
     }
   }
 }

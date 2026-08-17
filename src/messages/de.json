@@ -3,6 +3,23 @@
     "announcement": "Kostenloser Versand bei Bestellungen über $99",
     "searchPlaceholder": "Produkte suchen..."
   },
+  "footer": {
+    "description": "Ein modernes Einkaufserlebnis mit sorgfältig ausgewählten Produkten.",
+    "shop": {
+      "title": "Shop",
+      "products": "Produkte",
+      "categories": "Kategorien",
+      "newArrivals": "Neuheiten"
+    },
+    "company": {
+      "title": "Unternehmen",
+      "about": "Über uns",
+      "contact": "Kontakt",
+      "privacy": "Datenschutz",
+      "terms": "Allgemeine Geschäftsbedingungen"
+    },
+    "copyright": "© 2026 Store. Alle Rechte vorbehalten."
+  },
   "navigation": {
     "search": "Suchen",
     "account": "Konto",
@@ -13,7 +30,12 @@
     "addToWishlist": "Zur Wunschliste hinzufügen",
     "removeFromWishlist": "Von der Wunschliste entfernen"
   },
+
   "home": {
+    "newArrivals": {
+      "title": "Neuheiten",
+      "viewAll": "Alle ansehen"
+    },
     "benefits": {
       "shippingTitle": "Kostenloser Versand",
       "shippingDescription": "Ab $100 Bestellwert",
@@ -32,6 +54,27 @@
     "categories": {
       "title": "Nach Kategorie einkaufen",
       "viewAll": "Alle anzeigen"
+    },
+    "whyShopWithUs": {
+      "title": "Warum bei uns einkaufen?",
+      "items": [
+        {
+          "title": "Qualitätsprodukte",
+          "description": "Sorgfältig ausgewählte Produkte für Ihre Bedürfnisse."
+        },
+        {
+          "title": "Faire Preise",
+          "description": "Großartiger Wert ohne Kompromisse bei der Qualität."
+        },
+        {
+          "title": "Von Tausenden vertraut",
+          "description": "Ein Einkaufserlebnis, auf das Sie sich verlassen können."
+        },
+        {
+          "title": "Einfache Rückgabe",
+          "description": "Ein einfacher und unkomplizierter Rückgabeprozess."
+        }
+      ]
     }
   }
 }

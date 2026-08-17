@@ -86,3 +86,20 @@ body {
   background: var(--brand-primary);
   color: var(--text-inverse);
 }
+.product-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+}
+
+.product-scrollbar::-webkit-scrollbar {
+  height: 6px;
+}
+
+.product-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.product-scrollbar::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 9999px;
+}

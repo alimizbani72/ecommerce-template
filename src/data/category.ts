@@ -5,7 +5,7 @@ export const categories: Category[] = [
     id: "1",
     name: "Furniture",
     slug: "furniture",
-    image: "/images/products/product-2.png",
+    image: "/images/products/product-1.png",
   },
   {
     id: "2",
@@ -17,7 +17,7 @@ export const categories: Category[] = [
     id: "3",
     name: "Decor",
     slug: "decor",
-    image: "/images/products/product-2.png",
+    image: "/images/products/product-4.png",
   },
   {
     id: "4",
@@ -29,6 +29,6 @@ export const categories: Category[] = [
     id: "5",
     name: "Kitchen",
     slug: "kitchen",
-    image: "/images/products/product-2.png",
+    image: "/images/products/product-3.png",
   },
 ];

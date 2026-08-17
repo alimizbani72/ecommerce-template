@@ -3,6 +3,23 @@
     "announcement": "Free shipping on orders over $99",
     "searchPlaceholder": "Search for products..."
   },
+  "footer": {
+    "description": "A modern shopping experience with carefully selected products.",
+    "shop": {
+      "title": "Shop",
+      "products": "Products",
+      "categories": "Categories",
+      "newArrivals": "New Arrivals"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions"
+    },
+    "copyright": "© 2026 Store. All rights reserved."
+  },
   "navigation": {
     "search": "Search",
     "account": "Account",
@@ -14,6 +31,10 @@
     "removeFromWishlist": "Remove from wishlist"
   },
   "home": {
+    "newArrivals": {
+      "title": "New Arrivals",
+      "viewAll": "View all"
+    },
     "benefits": {
       "shippingTitle": "Free shipping",
       "shippingDescription": "On orders over $100",
@@ -32,6 +53,27 @@
     "categories": {
       "title": "Shop by Category",
       "viewAll": "View all"
+    },
+    "whyShopWithUs": {
+      "title": "Why Shop With Us",
+      "items": [
+        {
+          "title": "Quality Products",
+          "description": "Carefully selected products for your needs."
+        },
+        {
+          "title": "Affordable Prices",
+          "description": "Great value without compromising on quality."
+        },
+        {
+          "title": "Trusted by Thousands",
+          "description": "A shopping experience customers can rely on."
+        },
+        {
+          "title": "Easy Returns",
+          "description": "Simple and convenient return process."
+        }
+      ]
     }
   }
 }
