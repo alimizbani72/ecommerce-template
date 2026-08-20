@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+import { LocaleSwitcher } from "@/components/storefront/locale-switcher";
 import { Container } from "@/components/ui/container";
 import { Typography } from "@/components/ui/typography";
 import type { Locale } from "@/i18n/config";
@@ -99,13 +100,14 @@ export async function Footer({ locale }: FooterProps) {
 
       <div className="border-t border-border/40">
         <Container>
-          <div className="py-5">
+          <div className="py-5 flex justify-between">
             <Typography
               variant="caption"
               className="text-text-inverse lg:text-sm"
             >
               {footer.copyright}
             </Typography>
+            <LocaleSwitcher locale={locale} />
           </div>
         </Container>
       </div>

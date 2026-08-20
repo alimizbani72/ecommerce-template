@@ -3,6 +3,70 @@
     "announcement": "Free shipping on orders over $99",
     "searchPlaceholder": "Search for products..."
   },
+  "auth": {
+    "login": {
+      "brand": "Store",
+      "title": "Welcome back",
+      "description": "Sign in to your account to continue.",
+      "google": "Continue with Google",
+      "or": "OR",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "••••••••",
+      "forgotPassword": "Forgot password?",
+      "submit": "Sign in",
+      "noAccount": "Don't have an account?",
+      "register": "Create one"
+    },
+    "register": {
+      "back": "Back to sign in",
+      "brand": "Store",
+      "title": "Create an account",
+      "description": "Join us and start shopping.",
+      "google": "Continue with Google",
+      "or": "OR",
+      "firstName": "First name",
+      "firstNamePlaceholder": "Enter your first name",
+      "lastName": "Last name",
+      "lastNamePlaceholder": "Enter your last name",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "••••••••",
+      "confirmPassword": "Confirm password",
+      "confirmPasswordPlaceholder": "••••••••",
+      "submit": "Create account",
+      "hasAccount": "Already have an account?",
+      "login": "Sign in"
+    },
+    "forgotPassword": {
+      "back": "Back to sign in",
+      "brand": "Store",
+      "title": "Forgot password",
+      "description": "Enter your email and we'll send you a link to reset your password.",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "submit": "Send reset link",
+      "rememberPassword": "Remember your password?",
+      "login": "Sign in"
+    },
+    "resetPassword": {
+      "back": "Back to sign in",
+      "brand": "ShopHub",
+      "title": "Reset password",
+      "description": "Create a new password for your account.",
+      "newPassword": "New password",
+      "newPasswordPlaceholder": "••••••••",
+      "passwordHint": "Use 8 or more characters",
+      "confirmPassword": "Confirm new password",
+      "confirmPasswordPlaceholder": "••••••••",
+      "submit": "Reset password",
+      "backToLogin": "Back to",
+      "login": "Sign in"
+    }
+  },
+
   "footer": {
     "description": "A modern shopping experience with carefully selected products.",
     "shop": {

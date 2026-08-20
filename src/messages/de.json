@@ -3,6 +3,71 @@
     "announcement": "Kostenloser Versand bei Bestellungen über $99",
     "searchPlaceholder": "Produkte suchen..."
   },
+  "auth": {
+    "login": {
+      "brand": "Store",
+      "title": "Willkommen zurück",
+      "description": "Melden Sie sich an, um fortzufahren.",
+      "google": "Mit Google fortfahren",
+      "or": "ODER",
+      "email": "E-Mail",
+      "emailPlaceholder": "sie@example.com",
+      "password": "Passwort",
+      "passwordPlaceholder": "••••••••",
+      "forgotPassword": "Passwort vergessen?",
+      "submit": "Anmelden",
+      "noAccount": "Noch kein Konto?",
+      "register": "Konto erstellen"
+    },
+    "register": {
+      "back": "Zur Anmeldung",
+      "brand": "Store",
+      "title": "Konto erstellen",
+      "description": "Werden Sie Teil von ShopHub und beginnen Sie mit dem Einkaufen.",
+      "google": "Mit Google fortfahren",
+      "or": "ODER",
+      "firstName": "Vorname",
+      "firstNamePlaceholder": "Geben Sie Ihren Vornamen ein",
+      "lastName": "Nachname",
+      "lastNamePlaceholder": "Geben Sie Ihren Nachnamen ein",
+      "email": "E-Mail",
+      "emailPlaceholder": "sie@beispiel.com",
+      "password": "Passwort",
+      "passwordPlaceholder": "••••••••",
+      "confirmPassword": "Passwort bestätigen",
+      "confirmPasswordPlaceholder": "••••••••",
+      "submit": "Konto erstellen",
+      "hasAccount": "Sie haben bereits ein Konto?",
+      "login": "Anmelden"
+    },
+
+    "forgotPassword": {
+      "back": "Zur Anmeldung",
+      "brand": "Store",
+      "title": "Passwort vergessen?",
+      "description": "Geben Sie Ihre E-Mail-Adresse ein und wir senden Ihnen einen Link zum Zurücksetzen Ihres Passworts.",
+      "email": "E-Mail",
+      "emailPlaceholder": "sie@beispiel.com",
+      "submit": "Link zum Zurücksetzen senden",
+      "rememberPassword": "Passwort wieder eingefallen?",
+      "login": "Anmelden"
+    },
+    "resetPassword": {
+      "back": "Zur Anmeldung",
+      "brand": "ShopHub",
+      "title": "Passwort zurücksetzen",
+      "description": "Erstellen Sie ein neues Passwort für Ihr Konto.",
+      "newPassword": "Neues Passwort",
+      "newPasswordPlaceholder": "••••••••",
+      "passwordHint": "Verwenden Sie mindestens 8 Zeichen",
+      "confirmPassword": "Neues Passwort bestätigen",
+      "confirmPasswordPlaceholder": "••••••••",
+      "submit": "Passwort zurücksetzen",
+      "backToLogin": "Zurück zu",
+      "login": "Anmelden"
+    }
+  },
+
   "footer": {
     "description": "Ein modernes Einkaufserlebnis mit sorgfältig ausgewählten Produkten.",
     "shop": {

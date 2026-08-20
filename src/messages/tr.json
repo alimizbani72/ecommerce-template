@@ -3,6 +3,71 @@
     "announcement": "$99 üzerindeki siparişlerde ücretsiz kargo",
     "searchPlaceholder": "Ürün ara..."
   },
+  "auth": {
+    "login": {
+      "brand": "Store",
+      "title": "Tekrar hoş geldiniz",
+      "description": "Devam etmek için hesabınıza giriş yapın.",
+      "google": "Google ile devam et",
+      "or": "VEYA",
+      "email": "E-posta",
+      "emailPlaceholder": "siz@example.com",
+      "password": "Şifre",
+      "passwordPlaceholder": "••••••••",
+      "forgotPassword": "Şifrenizi mi unuttunuz?",
+      "submit": "Giriş yap",
+      "noAccount": "Hesabınız yok mu?",
+      "register": "Hesap oluştur"
+    },
+    "register": {
+      "back": "Giriş yapmaya dön",
+      "brand": "Store",
+      "title": "Hesap oluştur",
+      "description": "ShopHub'a katılın ve alışverişe başlayın.",
+      "google": "Google ile devam et",
+      "or": "VEYA",
+      "firstName": "Ad",
+      "firstNamePlaceholder": "Adınızı girin",
+      "lastName": "Soyad",
+      "lastNamePlaceholder": "Soyadınızı girin",
+      "email": "E-posta",
+      "emailPlaceholder": "siz@ornek.com",
+      "password": "Şifre",
+      "passwordPlaceholder": "••••••••",
+      "confirmPassword": "Şifreyi onayla",
+      "confirmPasswordPlaceholder": "••••••••",
+      "submit": "Hesap oluştur",
+      "hasAccount": "Zaten bir hesabınız var mı?",
+      "login": "Giriş yap"
+    },
+
+    "forgotPassword": {
+      "back": "Giriş yapmaya dön",
+      "brand": "Store",
+      "title": "Şifrenizi mi unuttunuz?",
+      "description": "E-posta adresinizi girin, şifrenizi sıfırlamanız için size bir bağlantı gönderelim.",
+      "email": "E-posta",
+      "emailPlaceholder": "siz@ornek.com",
+      "submit": "Sıfırlama bağlantısı gönder",
+      "rememberPassword": "Şifrenizi hatırladınız mı?",
+      "login": "Giriş yap"
+    },
+    "resetPassword": {
+      "back": "Giriş yapmaya dön",
+      "brand": "ShopHub",
+      "title": "Şifreyi sıfırla",
+      "description": "Hesabınız için yeni bir şifre oluşturun.",
+      "newPassword": "Yeni şifre",
+      "newPasswordPlaceholder": "••••••••",
+      "passwordHint": "8 veya daha fazla karakter kullanın",
+      "confirmPassword": "Yeni şifreyi onayla",
+      "confirmPasswordPlaceholder": "••••••••",
+      "submit": "Şifreyi sıfırla",
+      "backToLogin": "Geri dön:",
+      "login": "Giriş yap"
+    }
+  },
+
   "footer": {
     "description": "Özenle seçilmiş ürünlerle modern bir alışveriş deneyimi.",
     "shop": {
